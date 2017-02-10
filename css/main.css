@@ -25,9 +25,11 @@ html {
 }
 
 .banner {
+  position: relative;
 
 }
 
 .banner-content {
+  position: absolute;
 
 }
